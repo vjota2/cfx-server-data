@@ -1,6 +1,7 @@
 # cfx-server-data
 
 **Main change in this fork is adding client side event for baseevents**
+-- Didn't do pull request, cuz I don't think this thing won't break some users/APIs aka. rule 1 in Policy
 
 _The data repository for Cfx.re servers_
 
